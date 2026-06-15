@@ -86,10 +86,6 @@ Install dependencies:Bashpip install -r requirements.txt
 Run any task:Bashcd Level_5
 python task1_web_scraper.py
 
-
-📸 Screenshots & Demo
-(Yahan aap apne screenshots daal sakte ho - Level-wise output)
-
 🙏 Acknowledgments
 
 Sysslan IT Solutions for providing this wonderful learning opportunity.
