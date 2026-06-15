@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav Sharma",
+        "age": 22,
+        "email": "aarav@example.com",
+        "city": "Mumbai"
+    },
+    {
+        "id": 2,
+        "name": "Priya Patel",
+        "age": 20,
+        "email": "priya@example.com",
+        "city": "Delhi"
+    }
+]

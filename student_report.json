@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Aarav Sharma",
+        "total": 350,
+        "average": 87.5,
+        "grade": "A"
+    },
+    {
+        "name": "Priya Patel",
+        "total": 337,
+        "average": 84.25,
+        "grade": "A"
+    },
+    {
+        "name": "Rohan Mehta",
+        "total": 365,
+        "average": 91.25,
+        "grade": "A+"
+    },
+    {
+        "name": "Sneha Gupta",
+        "total": 315,
+        "average": 78.75,
+        "grade": "B"
+    }
+]
